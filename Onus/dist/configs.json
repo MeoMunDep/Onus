@@ -1,0 +1,10 @@
+{
+  "delayEachAccount": [5, 8],
+  "timeToRestartAllAccounts": 30000,
+  "howManyAccountsRunInOneTime": 100,
+  "isDoTasks": true,
+  "isPlayGames": true,
+  "isSkipInvalidProxy": true,
+  "referralCode": "",
+  "todayCombo": "123456789"
+}
