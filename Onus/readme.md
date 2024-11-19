@@ -12,7 +12,7 @@
 
 To get started with the bot, follow these steps:
 
-0. **Dowload PIP and PYTHON to run the bot**
+0. **Dowload PIP and PYTHON to run the bot**  - Python version: 3.11.9 and PIP version: 24.3.1
 
 -> [Link](https://t.me/KeoAirDropFreeNe/257/2627)
 
