@@ -19,7 +19,7 @@ To get started with the bot, follow these steps:
 1. **Install Dependencies and Modules:**
 
    ```
-   pip install aiohttp requests cloudscraper fake-useragent aiohttp-socks aiohttp-proxy colorama pyarmor
+   pip install aiohttp requests cloudscraper fake-useragent aiohttp_proxy aiohttp-proxy colorama pycryptodome requests[socks] PySocks
 
    python.exe -m pip install --upgrade pip
    ```
