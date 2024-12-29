@@ -1,5 +1,5 @@
 @echo off
-title Onus Bot
+title Onus Bot by @MeoMunDep
 color 0A
 
 cd ..
@@ -14,7 +14,7 @@ if exist node_modules (
 :MENU
 cls
 echo =================================================================
-echo    Onus BOT SETUP AND RUN SCRIPT
+echo    Onus BOT SETUP AND RUN SCRIPT by @MeoMunDep
 echo =================================================================
 echo.
 echo Current directory: %CD%
